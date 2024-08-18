@@ -1,0 +1,84 @@
+#tdtopo {
+    margin-left: 500px;
+    display: flex;
+    margin-top: 45px;
+}
+
+.linha {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.btntopo {
+    margin-left: 70px;
+    width: 120px;
+    height: 100px;
+    border: none;
+    background-color: white;
+    font-family: "Trispace", sans-serif;
+    color: #92251E;
+    font-size: 15px;
+}
+
+#btncadastro {
+    font-family: "Trispace", sans-serif;
+    margin-top: 35px;
+    background-color: #92251E;
+    margin-left: 50px;
+    color: white;
+    width: 90px;
+    height: 35px;
+    border-radius: 5px;
+    border: none;
+}
+#QS{
+    margin-top: 20px;
+    text-align: center;
+    font-family: "Trispace", sans-serif;
+    font-size: 20px;
+}
+#img1Qm{
+    margin-left: 350px;
+    margin-top: 90px;
+    height: 5px;
+}
+#img2Qm{
+    margin-left: 350px;
+    margin-top: 50px;
+
+}
+#tudo2{
+    display: flex;
+}
+.linha{
+    margin-left: 20px;
+    margin-top:20px;
+}
+#texto1{
+    margin-top: 300px;
+    font-family: "Trispace", sans-serif;
+    font-size: 15px;
+    margin-left: 25px;
+
+}
+.verm{
+    color: #92251E;
+}
+.icone{
+    display: flex;
+
+}
+#IG{
+    margin-top: 40px;
+    margin-left: 20px;
+}
+#td3{
+    display: flex;
+
+}
+#linha2{
+    margin-left: 20px;
+    margin-bottom: 100px;
+    margin-left: 20px;
+    
+}

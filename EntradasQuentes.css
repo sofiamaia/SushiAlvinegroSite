@@ -1,0 +1,125 @@
+#tdtopo {
+    margin-left: 500px;
+    display: flex;
+    margin-top: 45px;
+}
+
+.linha {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.btntopo {
+    margin-left: 70px;
+    width: 120px;
+    height: 100px;
+    border: none;
+    background-color: white;
+    font-family: "Trispace", sans-serif;
+    color: #92251E;
+    font-size: 15px;
+}
+
+#btncadastro {
+    font-family: "Trispace", sans-serif;
+    margin-top: 35px;
+    background-color: #92251E;
+    margin-left: 50px;
+    color: white;
+    width: 90px;
+    height: 35px;
+    border-radius: 5px;
+    border: none;
+}
+#btnlinha1{
+    display: flex;
+   margin-top: 50px;
+   
+   align-items: center;
+}
+#btn1{
+    background-color: #92251E;
+    margin-left: 140px;
+    color: white;
+    width: 90px;
+    height: 35px;
+    border-radius: 5px;
+    border: none;
+
+}
+
+#btn2{
+    background-color: #92251E;
+    margin-left: 460px;
+    color: white;
+    width: 90px;
+    height: 35px;
+    border-radius: 5px;
+    border: none;
+}
+
+#btn3{
+    background-color: #92251E;
+    color: white;
+    width: 90px;
+    height: 35px;
+    border-radius: 5px;
+    border: none;
+    margin-left: 530px;
+}
+#Card{
+    font-family: "Trispace", sans-serif;
+    color: #000000;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 20px;
+}
+#EF{
+    font-family: "Trispace", sans-serif;
+    color: #92251E;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 20px;
+}
+#linha2{
+    display: flex;
+    margin-bottom: 25px;
+    align-items: center;
+}
+
+#dvmg1{
+    margin-left: 70px;
+}
+
+#dvmg2{
+    margin-left: 300px;
+}
+
+#dvmg3{
+    margin-left: 350px
+}
+#linha3{
+    
+    display: flex;
+}
+#escrita1{
+    font-family: "Trispace", sans-serif;
+    color: #000000;
+    font-size: 15px;
+    margin-left: 140px;
+
+}
+#escrita2{
+    font-family: "Trispace", sans-serif;
+    color: #000000;
+    font-size: 15px;
+    align-items: center;
+    margin-left: 400px;
+}
+#escrita3{
+    font-family: "Trispace", sans-serif;
+    color: #000000;
+    font-size: 15px;
+    margin-left: 530px;
+
+}
